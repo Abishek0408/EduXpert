@@ -1,6 +1,6 @@
-### Social Learning Web Platform - EduXpert
+## Social Learning Web Platform - EduXpert
 
-### 📌 Overview
+## 📌 Overview
 
 The Social Learning Web Platform is an interactive online platform that enables users to learn, share knowledge, and engage in discussions with peers and instructors. It combines e-learning features with social collaboration tools, providing a seamless and engaging learning experience.
 
@@ -44,7 +44,7 @@ Video Streaming: Mux
 
 Payment Processing: Stripe
 
-### 🏗️ Installation & Setup
+## 🏗️ Installation & Setup
 
 ### 1️⃣ Clone the Repository
 ```sh
