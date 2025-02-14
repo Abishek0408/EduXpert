@@ -4,26 +4,44 @@
 
 The Social Learning Web Platform is an interactive online platform that enables users to learn, share knowledge, and engage in discussions with peers and instructors. It combines e-learning features with social collaboration tools, providing a seamless and engaging learning experience.
 
-### 🚀 Features
+## 🚀 Features
 
 📚 Course Management: Create, edit, and manage courses with structured curriculums.
+
 🎥 Video Lectures: Seamless video processing and playback using Mux.
+
+💬 Real-time Chat: Instant messaging between users using Socket.IO.
+
 🧑‍🏫 Instructor Dashboard: Performance tracking with analytical charts.
+
 ✅ Progress Tracking: Users can mark sections as completed and track their learning journey.
+
 📂 Media Uploads: Upload images, videos, and documents using UploadThing.
+
 🔒 Secure Authentication: User authentication and session management powered by Clerk.
+
 💳 Payments & Subscriptions: Course purchases via Stripe integration.
+
 🔎 Search & Filters: Find courses by title, category, or keywords.
+
 🌐 SEO Optimized: Server-side rendering with Next.js for improved performance.
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Frontend: React.js, TypeScript, Tailwind CSS
+
 Backend: Next.js (API routes for server-side logic)
+
 Database: MySQL with Prisma ORM (Managed on Aiven Cloud)
+
+Real-time Communication: Socket.IO
+
 Authentication: Clerk
+
 Media Uploads: UploadThing (Images, Videos, Files)
+
 Video Streaming: Mux
+
 Payment Processing: Stripe
 
 ### 🏗️ Installation & Setup
